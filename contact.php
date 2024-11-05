@@ -10,5 +10,5 @@ require "head.php"
     <p><h2><a style="text-decoration: none;color:black;" href="tel:+212 632518577">Téléphone: +212 632518577</a></h2></p>
 </div>
 <?php
-require "footer.php"
+require "footer.php"  //oh yeah
 ?>
