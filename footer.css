@@ -1,0 +1,54 @@
+#footer{
+    background-color:black;
+    color:white;
+}
+#footer ul{
+    list-style: none;
+    padding: 0;
+}
+#footer h4 a{
+    text-decoration: none;
+    color:white;
+}
+#footer ul li a{
+    color:gray;
+    text-decoration: none;
+}
+
+.contenue-footer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.contenue-footer-div{
+    width: 100%;
+    max-width: 300px;
+}
+.contenue-footer-div.accès-rapide ul li{
+    margin-bottom: 10px;
+}
+#footer .accès-rapide ul li a:hover {
+    color: white ;
+}
+.contenue-footer-div.contactez-nous ul li{
+    margin-bottom: 10px;
+    color:gray;
+}
+#footer .contactez-nous ul li a:hover{
+    color: white ;
+}
+.contenue-footer-div.propos p{
+    color:gray;
+}
+
+.contenue-footer-div.suivez-nous ul{
+    display: flex; 
+}
+.contenue-footer-div.suivez-nous ul li{
+    margin-right: 20px;
+}
+.bas-footer{
+    text-align: center;
+    padding-bottom: 10px;
+    color: gray;
+}

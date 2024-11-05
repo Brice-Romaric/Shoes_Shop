@@ -1,0 +1,25 @@
+#headerfirstdiv{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+#headerthirddiv ul{
+    list-style: none;
+    display: flex; 
+}
+#headerthirddiv ul li{
+    margin-right: 20px;
+}
+#headerthirddiv ul li a{
+    text-decoration: none;
+    color:black;
+}
+
+#headerfirstdiv ul li a:hover{
+    color:gray ;
+}
+#title{
+    text-align: center;
+    background-color: antiquewhite;
+}

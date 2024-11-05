@@ -1,0 +1,27 @@
+.slideshoesContenaire {
+  max-width: 800px;
+  margin: auto;
+}
+
+.shoes {
+  display: none;
+}
+
+#servicesDiv{
+  display: flex;
+  justify-content: space-between; 
+  background-color: rgb(7, 3, 33);
+}
+
+#servicesDiv ul li{
+ margin-top: 10px;
+}
+
+#TypeProduitsDiv{
+  display: flex;
+  justify-content: space-between; 
+  background-color: rgb(7, 3, 33);
+}
+#TypeProduitsDiv div{
+  margin:5px;
+}
